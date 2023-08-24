@@ -16,6 +16,6 @@ INSERT INTO SpotifyClone.cancoes_favoritas(usuario_id, cancao_id) VALUES
 (4, 4),
 (5, 10),
 (5, 2),
-(6, 4),
-(7, 7),
-(8, 3);
+(8, 4),
+(9, 7),
+(10, 3);
